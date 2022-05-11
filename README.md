@@ -3,13 +3,10 @@
 This is my personal portfolio. The landing page is about me, my skills, and projects.
 
 ## Installation
-To install program fork the program and copy the ssh link. Navigate to the folder of choice using cd folder_name/ replacing folder_name with the correct name. Once in the folder type git clone ssh_link replacing ssh_link with the one that was obtained earlier and hit enter. Install json packages. To run type yarn start and go to http://localhost:3001 in browser to use the app.
+Install json packages. To run type npm start and go to http://localhost:3000 in browser to use the app.
 
 ## Contributors
 If you wish to contribute to this program please submit a pull request or a new issue.
-
-## License
-This program is licensed under The MIT License (https://opensource.org/licenses/MIT). License file included.
 
 ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
