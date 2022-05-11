@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my personal portfolio. The landing page is about me, my skills, and projects.
+
+## Installation
+Install json packages. To run type npm start and go to http://localhost:3000 in browser to use the app.
+
+## Contributors
+If you wish to contribute to this program please submit a pull request or a new issue.
+
+## Getting Started with Create React App
+This project was bootstrapped with Create React App.
 
 ## Available Scripts
 
@@ -68,3 +77,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
+
