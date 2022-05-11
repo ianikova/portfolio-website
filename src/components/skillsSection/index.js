@@ -12,14 +12,8 @@ import {
   SiHtml5,
   SiJavascript,
   SiGithub,
-  SiPython,
   SiReact,
-  SiPostgresql,
-  SiNpm,
-  SiFirebase,
-  SiMongodb,
   SiRedux,
-  SiNodedotjs,
 } from "react-icons/si";
 
 const SkillSection = ({ id }) => {
