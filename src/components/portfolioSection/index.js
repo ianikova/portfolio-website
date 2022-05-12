@@ -17,10 +17,10 @@ import project3 from "../../assets/project3.gif";
 
 const Portfolio = ({ id }) => {
   function gitPortfolio() {
-    window.open("");
+    window.open("https://github.com/ianikova/portfolio-website");
   }
   function makePortfolio() {
-    window.open("");
+    window.open("https://ianikova.netlify.app/");
   }
 
   function gitDictionaryApp() {
