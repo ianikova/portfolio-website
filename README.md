@@ -4,7 +4,7 @@ The landing page is about me, my skills, and projects.
 This project was created as a part of the mentorship program with the help of the Senior Software Engineer.
 
 ## Live Link
-https://thriving-pithivier-7776c4.netlify.app/
+https://ianikova.netlify.app/
 
 ## Screenshots
 Menu Tab
