@@ -2,8 +2,10 @@
 
 This is my personal portfolio. The landing page is about me, my skills, and projects.
 
-##Live Link / Demo Link:
+## Live Link / Demo Link:
 https://thriving-pithivier-7776c4.netlify.app/
+<img width="1428" alt="Screen Shot 2022-05-11 at 9 09 36 PM" src="https://user-images.githubusercontent.com/49143994/167977989-464b2b7a-1d5a-4a58-ad35-fe374d8ecfdb.png">
+
 
 ## Installation
 Install json packages. To run type npm start and go to http://localhost:3000 in browser to use the app.
